@@ -1,4 +1,4 @@
-package org.example.service;
+package org.example.service.statistics.impl;
 
 import org.example.entity.DoubleArrayWrapper;
 import org.example.service.statistics.ArrayStatistics;
